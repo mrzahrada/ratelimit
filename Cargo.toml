@@ -1,0 +1,9 @@
+[package]
+name = "ratelimit"
+version = "0.1.0"
+authors = ["mrzahrada <tomas.zahradnik@wereldo.com>"]
+edition = "2018"
+
+[dependencies]
+
+redis-module = "0.18.0"
